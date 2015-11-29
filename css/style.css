@@ -1,24 +1,4 @@
 
-
-#BackgroundVid
-{
-
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    width: auto;
-    min-width: 100%;
-    height: auto;
-    min-height: 100%;
-    z-index: -80;
-    background: transparent url(video-bg.jpg) no-repeat;
-    background-size: cover;
-
-    opacity:.50;
-    -moz-opacity:.50;
-    filter:alpha(opacity=50);
-
-}
 @charset "utf-8";
 
 body{
@@ -72,9 +52,9 @@ color: #FFDDC5;
     right: 0;
     bottom: 0;
     width: auto;
-    min-width: 100%;
+    min-width: 200%;
     height: auto;
-    min-height: 100%;
+    min-height: 200%;
     z-index: -80;
     background: transparent url(video-bg.jpg) no-repeat;
     background-size: cover;
