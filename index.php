@@ -16,7 +16,7 @@
         <body>
             <!-- Rajouter le menu -->
             <?php include("menu.php"); ?>
-            <video id = "BackgroundVid" autoplay loop>
+            <video id="BackgroundVid" autoplay loop>
                 <source src="img/file.mp4" type="video/mp4"/> <!--Je devrais mettre ma propre vidéo-->
             </video>
             <div class="outsideMenu">
