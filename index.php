@@ -13,10 +13,10 @@
 <![endif]-->
 
     </head>
-
-    <body>
-
         <body>
+            <video id = "BackgroundVid" autoplay loop>
+                <source src="img/file.mp4" type="video/mp4"/> <!--Je devrais mettre ma propre vidéo-->
+            </video>
             <!-- Rajouter le menu -->
             <?php include("menu.php"); ?>
             <div class="outsideMenu">
@@ -33,11 +33,5 @@
             <script src="http://code.jquery.com/jquery-latest.js"></script>
             <script src="js/bootstrap.js"></script>
         </body>
-
-
-
-        <script src="http://code.jquery.com/jquery-latest.js"></script>
-        <script src="js/bootstrap.js"></script>
-    </body>
 </html>
 

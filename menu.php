@@ -1,5 +1,4 @@
 
-<div>
 <nav class="navbar navbar-inverse" role="navigation">
   <div class="container-fluid">
     <!-- Voila, c'est que dalle ce truc -->
